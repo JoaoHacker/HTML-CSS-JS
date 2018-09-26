@@ -1,0 +1,12 @@
+body{
+	background-color: black;
+	text-align:center;
+}
+
+
+div { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+}
+
+
